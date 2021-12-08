@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Olá! 👋
+# Sou um estudante de Engenharia de Software pela Unicesumar com foco em .NET e backend
 <!--
 **jeanmendesf/jeanmendesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
