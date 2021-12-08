@@ -1,5 +1,19 @@
-### Olá! 👋
-# Sou um estudante de Engenharia de Software pela Unicesumar com foco em .NET e backend
+## Olá! 👋
+#### :man_technologist: Sou um estudante de Engenharia de Software pela Unicesumar com foco em .NET e para desenvolvimento Web.
+#### Com foco em aplicações Web, tenho alguns conhecimentos que englobam:
+    C# 
+      Orientação a Objetos
+      APIs
+      MVC
+    Frontend
+      Angular
+      Html
+      Css
+    Banco de dados relacional
+      SQL
+
+
+
 <!--
 **jeanmendesf/jeanmendesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
