@@ -13,11 +13,14 @@
     <img width="55" weight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>
 <br/>
+<br/>
 
 <!-- Git Status-->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanmendesf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmendesf&layout=compact)" /> 
-      
+<div align="center">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeanmendesf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmendesf&layout=compact&langs_count=10&theme=radical"/>
+</div>
+    
 ### Se gostou do meu perfil, me segue lá: 
 <div style="display: inline_block">
     <a href="https://www.linkedin.com/in/jean-m-9a4bb78a/" target="blank">
